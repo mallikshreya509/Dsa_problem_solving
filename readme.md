@@ -1,21 +1,75 @@
+# 🚀 DSA Problem Solving Repository
 
-## 73. Set Matrix Zeroes
+This repository contains my solutions to various **Data Structures and Algorithms (DSA)** problems solved across different coding platforms. The goal is to strengthen problem-solving skills, master core algorithms, and prepare for technical interviews.
+
+## 📌 About
+
+I regularly practice coding problems covering:
+
+* Arrays
+* Strings
+* Linked Lists
+* Stacks & Queues
+* Trees & Binary Trees
+* Binary Search Trees
+* Heaps / Priority Queues
+* Hashing
+* Recursion & Backtracking
+* Dynamic Programming
+* Greedy Algorithms
+* Graphs
+* Sliding Window
+* Two Pointers
+* Bit Manipulation
+* Tries
+* Segment Trees
+* Disjoint Set Union (DSU)
+* Advanced Algorithms
+
+## 🛠️ Languages Used
+
+* C++
+* Java
 
 
 
-### Example 1:
+
+Each solution includes:
+
+* Problem statement link
+* Approach/Logic
+* Time Complexity
+* Space Complexity
+* Clean and optimized code
+
+## 🎯 Goals
+
+* Solve 500+ DSA problems
+* Master common interview patterns
+* Improve coding speed and accuracy
+* Prepare for product-based company interviews
+* Strengthen competitive programming skills
 
 
-Input: matrix = [[1,1,1],[1,0,1],[1,1,1]]
 
-Output: [[1,0,1],[0,0,0],[1,0,1]]
+## 📈 Progress Tracker
 
-https://leetcode.com/problems/set-matrix-zeroes/
+| Topic               | Problems Solved |
+| ------------------- | --------------- |
+| Arrays              | X               |
+| Strings             | X               |
+| Linked Lists        | X               |
+| Trees               | X               |
+| Graphs              | X               |
+| Dynamic Programming | X               |
+| Greedy              | X               |
 
-To Optimise space we will use first row and first column as marker array. 
-During marking, first row and first column get modified, so their original values are lost.
-Therefore, before marking, store separately:
-rzero → did first row originally contain a zero?
-czero → did first column originally contain a zero?
-At the end, use these booleans to correctly zero the first row/column.
+## 🤝 Contributions
 
+This repository is primarily for personal learning and interview preparation. Suggestions and improvements are always welcome.
+
+## ⭐ If you find this repository useful
+
+Consider giving it a star to support the project.
+
+Happy Coding! 🚀
