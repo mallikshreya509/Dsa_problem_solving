@@ -47,7 +47,6 @@ Each solution includes:
 * Solve 500+ DSA problems
 * Master common interview patterns
 * Improve coding speed and accuracy
-* Prepare for product-based company interviews
 * Strengthen competitive programming skills
 
 
