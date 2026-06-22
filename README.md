@@ -21,5 +21,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/mallikshreya509/Dsa_problem_solving/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/mallikshreya509/Dsa_problem_solving/tree/master/1833-maximum-ice-cream-bars) |
+## Hash Table
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/mallikshreya509/Dsa_problem_solving/tree/master/1189-maximum-number-of-balloons) |
+## String
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/mallikshreya509/Dsa_problem_solving/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
