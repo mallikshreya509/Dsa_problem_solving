@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/mallikshreya509/Dsa_problem_solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/mallikshreya509/Dsa_problem_solving/tree/master/1288-remove-covered-intervals) |
 | [1732-find-the-highest-altitude](https://github.com/mallikshreya509/Dsa_problem_solving/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/mallikshreya509/Dsa_problem_solving/tree/master/1833-maximum-ice-cream-bars) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/mallikshreya509/Dsa_problem_solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/mallikshreya509/Dsa_problem_solving/tree/master/1288-remove-covered-intervals) |
 | [1833-maximum-ice-cream-bars](https://github.com/mallikshreya509/Dsa_problem_solving/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/mallikshreya509/Dsa_problem_solving/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/mallikshreya509/Dsa_problem_solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mallikshreya509/Dsa_problem_solving/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/mallikshreya509/Dsa_problem_solving/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/mallikshreya509/Dsa_problem_solving/tree/master/3658-gcd-of-odd-and-even-sums) |
